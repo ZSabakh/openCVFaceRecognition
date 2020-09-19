@@ -1,16 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 16 20:44:18 2020
 
-@author: zurab
-"""
-
-# -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 16 17:54:51 2020
-
-@author: zurab
-"""
 """
 !!!!!!!!!!!!!!!!!!!!
 only applies gaussian blur effect to the realtime face detection.
